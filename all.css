@@ -963,25 +963,17 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	
 	--swatch-var-5131:rgba(255,255,1,1.00);
 	
-	--swatch-var-783:rgba(83,84,86,1.00);
-	
 	--swatch-var-4667:rgba(189,97,2,0.91);
 	
 	--swatch-var-4801:rgba(74,69,255,0.15);
-	
-	--swatch-var-7444:rgba(73,78,14,0.43);
 	
 	--swatch-var-2937:rgba(6,5,35,1.00);
 	
 	--swatch-var-2680:rgba(162,187,252,0.31);
 	
-	--swatch-var-5984:rgba(255,255,255,1.00);
-	
 	--swatch-var-7492:rgba(255,3,3,1.00);
 	
 	--swatch-var-1701:rgba(6,5,35,0.88);
-	
-	--swatch-var-5517:rgba(14,25,125,1.00);
 	
 	--swatch-var-5765:rgba(14,25,125,1.00);
 	
@@ -1764,7 +1756,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 		padding:10px 10px 10px 10px;
 	}
 	.container-div-style{
-		min-height:59px;
+		min-height:69px;
 	}
 	.btn-bloc-1-style{
 		padding-top:16px;
@@ -1812,6 +1804,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	}
 	.label-ایتا-style{
 		font-size:20px;
+	}
+	.h2-style{
+		width:85.41%;
 	}
 	
 }
