@@ -466,6 +466,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .link-style{
 	width:100%;
+	text-decoration:underline;
 }
 .bloc-16376-fill{
 	fill:rgba(0,0,0,0.72);
@@ -916,7 +917,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .شعبه{
 	font-weight:800;
-	font-size:35px;
+	font-size:37px;
 }
 .تلفن{
 	font-size:40px;
@@ -940,6 +941,18 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .routine-button{
 	height:110px;
+}
+.link-۴۴-۷۷-۸۴-۳۱--style{
+	text-decoration:underline;
+}
+.link-۴۶۰-۲۷۰-۵۳--style{
+	text-decoration:underline;
+}
+.link-۴۶۰-۲۷۰-۴۱--style{
+	text-decoration:underline;
+}
+.link-۴۴-۷۴-۷۷-۶۸-style{
+	text-decoration:underline;
 }
 
 /* = Colour
@@ -998,6 +1011,15 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .wire-btn-c-5131{
 	color:var(--swatch-var-5131)!important;
 	border-color:var(--swatch-var-5131)!important;
+}
+
+/* Link colour styles */
+
+.ltc-5406{
+	color:var(--swatch-var-5406)!important;
+}
+.ltc-5406:hover{
+	color:rgba(0,94,171,0.79)!important;
 }
 
 /* Bloc image backgrounds */
