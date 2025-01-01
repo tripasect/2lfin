@@ -880,6 +880,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	width:88.53%;
 	padding-top:16px;
 	padding-bottom:16px;
+	border-radius:37px 37px 37px 37px;
 }
 .messanger-paragraph{
 	color:var(--swatch-var-3462)!important;
