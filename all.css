@@ -473,7 +473,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .h2-style{
 	font-family:"Noto Sans Arabic";
 	text-align:right;
-	font-weight:700;
+	font-weight:200;
 	text-decoration:none;
 	width:53.39%;
 	font-size:22px;
@@ -671,7 +671,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	font-size:30px;
 	color:#F2F2F2!important;
 	text-shadow:1.36px 1.46px 14px rgba(0,0,0,0.52);
-	line-height:40px;
+	line-height:20px;
 }
 .bloc-hot-beverages-fill{
 	fill:var(--swatch-var-528);
@@ -866,9 +866,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .slogan{
 	color:var(--swatch-var-2941)!important;
-	background-color:var(--swatch-var-494);
 	border-radius:25px 25px 25px 25px;
-	padding:25px 15px 25px 15px;
+	padding:20px 20px 20px 20px;
+	font-weight:300;
 }
 .btn-منو-style{
 	font-size:25px;
@@ -890,7 +890,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	width:100%;
 	font-size:35px;
 	margin-top:10px;
-	color:var(--swatch-var-6868)!important;
+	color:var(--swatch-var-4733)!important;
 	font-weight:900;
 }
 .label-ایتا-style{
@@ -957,6 +957,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	text-align:center;
 	font-size:60px;
 }
+.bloc-14117-fill{
+	fill:var(--swatch-var-2938);
+}
 
 /* = Colour
 -------------------------------------------------------------- */
@@ -998,19 +1001,20 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	
 	--swatch-var-3915:rgba(204,199,199,1.00);
 	
+	--swatch-var-1839:rgba(177,207,248,0.79);
+	
+	--swatch-var-4733:rgba(24,118,40,1.00);
+	
 }
 
 
 /* Background colour styles */
 
-.bgc-3462{
-	background-color:var(--swatch-var-3462);
+.bgc-5406{
+	background-color:var(--swatch-var-5406);
 }
-.bgc-2680{
-	background-color:var(--swatch-var-2680);
-}
-.bgc-2937{
-	background-color:var(--swatch-var-2937);
+.bgc-1839{
+	background-color:var(--swatch-var-1839);
 }
 
 /* Button colour styles */
@@ -1310,7 +1314,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 		background-color:#FFFFFF;
 	}
 	.h3-style{
-		line-height:40px;
+		line-height:20px;
 	}
 	.p-style{
 		width:100%;
@@ -1343,6 +1347,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 		padding-bottom:38px;
 		font-size:40px;
 		width:91.36%;
+	}
+	.p-2-style{
+		font-size:35px;
 	}
 	
 }
@@ -1520,9 +1527,10 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 		fill:rgba(243,255,255,0.85);
 	}
 	.h3-style{
-		font-weight:600;
+		font-weight:500;
 		font-family:"Noto Kufi Arabic";
-		line-height:50px;
+		line-height:20px;
+		font-size:25px;
 	}
 	.dumb-down{
 	}
@@ -1549,8 +1557,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	}
 	.slogan{
 		color:var(--swatch-var-2941)!important;
-		font-weight:700;
-		background-color:var(--swatch-var-494);
+		font-weight:300;
 		border-radius:20px 20px 20px 20px;
 		padding:20px 20px 20px 20px;
 		font-size:20px;
@@ -1600,7 +1607,8 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 		padding-bottom:38px;
 	}
 	.شعبه{
-		font-size:20px;
+		font-size:25px;
+		margin-bottom:0px;
 	}
 	.p-2-style{
 		width:100%;
@@ -1610,6 +1618,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 		font-size:22px;
 	}
 	.asseman-whatsapp-icon{
+	}
+	.link-style{
+		font-size:30px;
 	}
 	
 }
@@ -1738,8 +1749,8 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	.h3-style{
 		font-weight:normal;
 		font-family:"Noto Kufi Arabic";
-		line-height:30px;
-		font-size:20px;
+		line-height:15px;
+		font-size:22px;
 	}
 	.mehdi-and-saeed{
 		padding-top:30px;
@@ -1790,6 +1801,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 		padding-top:34px;
 		padding-bottom:34px;
 		width:92.88%;
+		border-radius:64px 64px 64px 64px;
 	}
 	.btn-منو-style{
 		font-size:20px;
@@ -1806,7 +1818,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 		font-size:18px;
 	}
 	.divider-dark{
-		width:55.88%;
+		width:46.22%;
 		height:2px;
 		margin-top:2px;
 	}
@@ -1829,6 +1841,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 		width:100%;
 		font-size:25px;
 		text-align:center;
+		color:var(--swatch-var-4733)!important;
 	}
 	.bloc-fill{
 		fill:var(--swatch-var-1701);
@@ -1838,6 +1851,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	}
 	.h2-style{
 		width:85.41%;
+		font-size:20px;
 	}
 	.p-2-style{
 		width:100%;
@@ -1852,6 +1866,12 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	.padder-phone{
 		padding-bottom:120px;
 		background-color:var(--swatch-var-805);
+	}
+	.p-style{
+		font-size:20px;
+	}
+	.bloc-14117-fill{
+		fill:var(--swatch-var-1701);
 	}
 	
 }
