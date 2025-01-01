@@ -1023,6 +1023,14 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	color:var(--swatch-var-5131)!important;
 	border-color:var(--swatch-var-5131)!important;
 }
+.wire-btn-c-6868{
+	color:var(--swatch-var-6868)!important;
+	border-color:var(--swatch-var-6868)!important;
+}
+.wire-btn-c-2941{
+	color:var(--swatch-var-2941)!important;
+	border-color:var(--swatch-var-2941)!important;
+}
 
 /* Link colour styles */
 
@@ -1031,6 +1039,17 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .ltc-5406:hover{
 	color:rgba(0,94,171,0.79)!important;
+}
+
+/* Icon colour styles */
+
+.icon-6868{
+	color:var(--swatch-var-6868)!important;
+	border-color:var(--swatch-var-6868)!important;
+}
+.icon-2941{
+	color:var(--swatch-var-2941)!important;
+	border-color:var(--swatch-var-2941)!important;
 }
 
 /* Bloc image backgrounds */
