@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://2lfin.ir</loc>
-	<lastmod>2025-12-30</lastmod>
+	<lastmod>2025-01-01</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -13,5 +13,11 @@
 	<image:loc>https://2lfin.ir/img/homepage@1920×1080.jpeg</image:loc>
 	<image:title>Facebook Social Card Image</image:title>
 	</image:image>
+</url>
+<url>
+	<loc>https://2lfin.ir/routine.html</loc>
+	<lastmod>2025-01-01</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
 </url>
 </urlset>
